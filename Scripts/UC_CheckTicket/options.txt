@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\EHOT\Desktop\RepoVuGen\Scripts\UC_CheckTicket
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\ehot\desktop\repovugen\scripts\uc_checkticket\\logfile.log
+c:\users\ehot\desktop\repovugen\scripts\uc_checkticket\\combined_UC_CheckTicket.c
+c:\users\ehot\desktop\repovugen\scripts\uc_checkticket\\pre_cci.c

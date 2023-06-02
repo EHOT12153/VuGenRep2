@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>UC_Login</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="UC_Login.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="UC_Login.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_UC_Login.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="212511698440.idx" Filter="1" />
+    <FileEntry Name="21346350440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv09t.437.log" Filter="1" />
+    <FileEntry Name="mdrv0GA.165.log" Filter="1" />
+    <FileEntry Name="mdrv23b.279.log" Filter="1" />
+    <FileEntry Name="mdrv7SK.335.log" Filter="1" />
+    <FileEntry Name="mdrvCY4.95.log" Filter="1" />
+    <FileEntry Name="mdrvdoy.729.log" Filter="1" />
+    <FileEntry Name="mdrvEpZ.737.log" Filter="1" />
+    <FileEntry Name="mdrvFy6.979.log" Filter="1" />
+    <FileEntry Name="mdrvGEJ.509.log" Filter="1" />
+    <FileEntry Name="mdrvIbw.823.log" Filter="1" />
+    <FileEntry Name="mdrvixz.407.log" Filter="1" />
+    <FileEntry Name="mdrvJtX.845.log" Filter="1" />
+    <FileEntry Name="mdrvL58.755.log" Filter="1" />
+    <FileEntry Name="mdrvLbT.523.log" Filter="1" />
+    <FileEntry Name="mdrvLGi.997.log" Filter="1" />
+    <FileEntry Name="mdrvmqo.591.log" Filter="1" />
+    <FileEntry Name="mdrvni0.391.log" Filter="1" />
+    <FileEntry Name="mdrvNMh.979.log" Filter="1" />
+    <FileEntry Name="mdrvOWZ.735.log" Filter="1" />
+    <FileEntry Name="mdrvSND.341.log" Filter="1" />
+    <FileEntry Name="mdrvUIA.887.log" Filter="1" />
+    <FileEntry Name="mdrvuvR.373.log" Filter="1" />
+    <FileEntry Name="mdrvUWp.863.log" Filter="1" />
+    <FileEntry Name="mdrvVRc.731.log" Filter="1" />
+    <FileEntry Name="mdrvvzv.631.log" Filter="1" />
+    <FileEntry Name="mdrvVzw.597.log" Filter="1" />
+    <FileEntry Name="mdrvWgU.703.log" Filter="1" />
+    <FileEntry Name="mdrvZoZ.91.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="UC_CheckItinerary.prm.bak" Filter="1" />
+    <FileEntry Name="UC_Login.c.pickle" Filter="1" />
+    <FileEntry Name="UC_Login.ci" Filter="1" />
+    <FileEntry Name="UC_Login.prm.bak" Filter="1" />
+    <FileEntry Name="UC_Login.sdf" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
